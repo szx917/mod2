@@ -13,17 +13,12 @@ h2{
   text-align: center;
 }
 
-/*p {
+.box {
   border: 1px solid black;
-  background-color: #A52A2A;
-  width: 90%;
-  height: 150px;
-  margin-right: auto;
-  margin-left: auto;
-  font-family: Helvetica;
-  color: white;
+  background-color: #CCC;
+  margin: 20px;
 }
-*/
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
