@@ -22,6 +22,7 @@ h2{
 }
 
 .title1 {
+  min-width:100px;
   border: 1px solid black;
   background-color:#31CC85;
   float: right;
@@ -30,6 +31,7 @@ h2{
 }
 
 .title2 {
+  min-width:100px;
   border: 1px solid black;
   background-color:#D17A2E;
   float: right;
@@ -37,6 +39,7 @@ h2{
 }
 
 .title3 {
+  min-width:100px;
   border: 1px solid black;
   background-color:#EDD415;
   float: right;
